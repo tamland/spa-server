@@ -1,0 +1,15 @@
+{
+  "name": "spa-server",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.16.1",
+    "serialize-javascript": "1.4.0"
+  }
+}
+
